@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata|Roboto|Montserrat|Merriweather|Martian+Mono');
+
+.footer-section-desc{
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.web-development-images{
+    border-radius: 32px;
+    width: 50%;
+    height: 45%;
+    margin-bottom: 12px;
+}
+
+.course-card{
+    border-radius: 12px;
+    border-width: 2px;
+    border-style: solid;
+    height: 100%;
+    padding: 10%;
+
+}
+
+.ic-desc{
+    font-size: 28px;
+    font-family: "Roboto";
+}
+
+.intern-logo{
+    font-family: "Merriweather";
+    font-size: 24px;
+    margin-left: 4px;
+}
+.crowd-logo-design{
+    color: #22cbce;
+}
+.landing-page{
+    height: 90vh;
+}
+
+.intern-img{
+    max-width: 75%;
+}
+
+.ic-motto{
+    font-family: "Montserrat";
+    font-size: 32px;
+    font-weight: bolder;
+    color: #0073ff;
+    margin-top: 12px;
+}
